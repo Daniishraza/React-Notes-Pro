@@ -1,7 +1,7 @@
 
 # 📝 React Notes Pro
 
-> 🚀 A modern, feature-rich **note-taking application** built with **React.js**.
+> A modern, feature-rich **note-taking application** built with **React.js**.
 > Organize, manage, and style your notes with **powerful productivity tools** and a sleek UI.
 
 ---
@@ -183,6 +183,7 @@ Track everything in one place:
 ---
 
 **Made with ❤️ and React**
+
 
 
 
